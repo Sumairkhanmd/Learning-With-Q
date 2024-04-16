@@ -1,0 +1,11 @@
+//Write a program to check if a person is eligible for IAS
+
+// age>23 & age<33
+
+START
+    SET age to 25
+    IF( age is greater than 23 AND age is less than 33) THEN
+    START IF
+        PRINT"Person is eligible for IAS"
+    END IF
+END

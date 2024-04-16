@@ -1,0 +1,9 @@
+//Write a program to check if a number is negative...
+
+START 
+    SET num to -5
+    IF(num is less than 0) THEN
+    START IF
+        PRINT"Given number is negative"
+    END IF
+END

@@ -1,0 +1,9 @@
+//Write a program to check if a number is odd...
+
+START 
+    SET num to 21
+    IF( (num % 2) is NOT equals to 0) THEN
+    START IF
+        PRINT"Given number is odd"
+    END IF
+END

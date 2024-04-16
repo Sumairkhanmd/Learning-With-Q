@@ -1,0 +1,9 @@
+//Write a program to check if a person's age if eligible to vote...
+
+START
+    SET num to 21
+    IF( num is greater than OR equals to 18) THEN
+    START IF
+        PRINT"Person is eligible to vote"
+    END IF 
+END

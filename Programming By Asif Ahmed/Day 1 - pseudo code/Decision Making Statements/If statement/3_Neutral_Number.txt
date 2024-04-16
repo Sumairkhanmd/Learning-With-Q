@@ -1,0 +1,9 @@
+//Write a program to check if a number is neutral
+
+START
+    SET num to 0
+    IF(num is equals to 0) THEN
+    START IF
+        PRINT"Given number is neutral"
+    END IF
+END

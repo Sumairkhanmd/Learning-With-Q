@@ -1,0 +1,9 @@
+//Write a proram to check if a number is Even...
+
+START
+    SET num to 24
+    IF( (num%2) is equals to 0) THEN
+    START IF
+        PRINT"Given number is Even"
+    END IF 
+END

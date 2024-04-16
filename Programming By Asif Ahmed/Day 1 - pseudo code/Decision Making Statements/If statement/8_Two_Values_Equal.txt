@@ -1,0 +1,10 @@
+//Write a program to check if the given two numbers are equal...
+
+START
+    SET a to 10
+    SET b to 10
+    IF(a is equals to b) THEN
+    START IF
+        PRINT"Given both numbers are equal"
+    END IF
+END

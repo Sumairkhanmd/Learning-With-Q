@@ -1,0 +1,9 @@
+//Write a program to check if a number is divisible by both 3 and 7...
+
+START
+    SET num to 21
+    IF( (num%3) is equals to 0 AND (num%7) is equals to 0)
+    START IF
+        PRINT"Given number is divisble by both 3 and 7..."
+    END IF
+END

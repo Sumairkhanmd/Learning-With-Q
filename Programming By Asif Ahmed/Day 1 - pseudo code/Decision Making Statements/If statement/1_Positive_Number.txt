@@ -1,0 +1,10 @@
+//Write a program to check if a number is positive number
+
+
+START 
+    SET num to 24
+    IF(num is greater than 0) THEN
+    START IF 
+        PRINT"Given number is positive"
+    END IF
+END
